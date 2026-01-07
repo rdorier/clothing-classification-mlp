@@ -16,4 +16,4 @@ The perceptron is a pretty naive approach, but for tiny and simple images like t
 
 ### Jupyter Notebook
 
-You can find in the doc folder of this repository a Jupyter Notebook with an interactive version of the script use to train this model, as well as graphs showing training progress and results.
+You can find in the `doc` folder of this repository a Jupyter Notebook with an interactive version of the script use to train this model, as well as graphs showing training progress and results. You can also find a test of the network where we try to make the MLP predict the class of an object inside the test dataset.
