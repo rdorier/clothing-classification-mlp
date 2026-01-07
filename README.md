@@ -4,6 +4,14 @@ A clothing classification project to practice PyTorch. It uses a Multi-Layer Per
 
 ![Thumbnail of the Fashion MNIST dataset](doc/images/Fashion-MNIST-dataset_Q320.jpg)
 
+## HOWTO
+
+To run the project, you only have to clone this repository and run the `mlp_training.py` script using Python 3. This script only train the Multi-Layer Perceptron, so feel free to try it with some images !
+
+### Dependencies
+
+This script requires Python 3 as well as PyTorch and NumPy in order to work.
+
 ## Results
 
 Here is two graphs representing the loss and accuracy of the training and validation session as they progress.
