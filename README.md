@@ -6,7 +6,7 @@ A clothing classification project to practice PyTorch. It uses a Multi-Layer Per
 
 ## How To
 
-To run the project, you only have to clone this repository and run the `mlp_training.py` script using Python 3. This script only trains the Multi-Layer Perceptron, so feel free to try it with some images ! You will find some usage examples inside the supplied Jupyter Notebook.
+To run the project, you only have to clone this repository and run the `mlp_training.py` script using Python 3. This script only trains the Multi-Layer Perceptron, so feel free to try it with some images ! You will find some usage examples inside the supplied [Jupyter Notebook](README.md#jupyter-notebook).
 
 ### Dependencies
 
